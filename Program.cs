@@ -33,6 +33,7 @@ do
 
 Console.WriteLine("\nЗаданте доп 2\n");
 
+isTrue = false;
 do
 {
     Console.Write("Введите трехзначное число: ");
